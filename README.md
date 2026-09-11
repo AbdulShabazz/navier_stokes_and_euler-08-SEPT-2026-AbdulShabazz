@@ -40,3 +40,7 @@ lake build
 
 For instructions on checking the formalizations with Comparator, see the
 [ComparatorChallenges README](ComparatorChallenges/README.md).
+
+## Contents
+
+** 634 LEAN files
