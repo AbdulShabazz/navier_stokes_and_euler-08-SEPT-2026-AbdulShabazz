@@ -41,6 +41,11 @@ lake build
 For instructions on checking the formalizations with Comparator, see the
 [ComparatorChallenges README](ComparatorChallenges/README.md).
 
-## Contents
+## Repository Metadata 
 
-** 634 LEAN files
+<b>643</b> Navier-Stokes LEAN files.  
+<b>1,839</b> Euler
+<b>2</b> Independent Reference Statements 
+<b>2</b> Top Level Imports
+=======
+<b>Total 2,486</b> files
